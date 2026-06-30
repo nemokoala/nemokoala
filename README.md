@@ -13,7 +13,7 @@
 ---
 
 ### 🌐 Portfolio Hub
-[![Nemokoala](https://img.shields.io/badge/Nemokoala-포트폴리오_허브-violet?style=for-the-badge)](https://nemokoala.com)
+[![Nemokoala](https://img.shields.io/badge/Nemokoala-포트폴리오_허브-violet?style=for-the-badge)](https://nemokoala.com/?view=developer)
 > 제작한 서비스들을 한곳에서 소개하는 포트폴리오 허브
 
 ---
