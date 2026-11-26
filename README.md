@@ -1,6 +1,6 @@
 # 안녕하세요 koala 입니다.
 
-2년차 프론트엔드 개발자입니다.  
+3년차 프론트엔드 개발자입니다.  
 웹 서비스 개발부터 홈 서버 구축, AI 기술 접목까지 다양한 사이드 프로젝트를 통해 성장하는 것을 즐깁니다.
 
 ---
@@ -12,7 +12,7 @@
 ---
 
 ### 🌐 Portfolio Hub
-[![Nemokoala](https://img.shields.io/badge/Nemokoala-포트폴리오_허브-violet?style=for-the-badge)](https://nemokoala.com/?view=developer)
+[![Nemokoala](https://img.shields.io/badge/Nemokoala-포트폴리오_허브-violet?style=for-the-badge)](https://nemokoala.com/)
 > 제작한 서비스들을 한곳에서 소개하는 포트폴리오 허브
 
 ---
